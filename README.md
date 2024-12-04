@@ -1,4 +1,4 @@
-### CONFIDURACION-Alexa
+# CONFIDURACION-Alexa
 Proyecto de clase configuración de la Alexa para la Unidad 3 de la Asignatura de Desarrollo Móvil Integral (DMI) 
 
 ## UNIVERSIDAD TECNOLOGICA DE XICOTEPEC DE JUÁREZ
