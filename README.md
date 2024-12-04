@@ -16,9 +16,9 @@ Proyecto de clase configuración de la Alexa para la Unidad 3 de la Asignatura d
 |3 Damos clic en Next y guardamos avances|
 ![alt text](<Captura de pantalla (3).png>)
 |-- |-- |
-|4 | |
+|4 Entramos a Invocation y seleccionamos el nombre para las Skill´s| |
 ![alt text](<Captura de pantalla (4).png>)
 |-- |-- |
-|5 | |
+|5 Procedemos a entrar a la sección de Build en Intents y en clima vamos a editamos las intenciones|
 ![alt text](<Captura de pantalla (5).png>)
 |-- |-- |
