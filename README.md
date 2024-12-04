@@ -1,4 +1,4 @@
-# configuracion-Alexa
+# CONFIDURACION-Alexa
 Proyecto de clase configuración de la Alexa para la Unidad 3 de la Asignatura de Desarrollo Móvil Integral (DMI) 
 
 # Documentación
@@ -6,4 +6,5 @@ Proyecto de clase configuración de la Alexa para la Unidad 3 de la Asignatura d
 |-- |-- |-- |-- |
 |1 |Metodologia de Evaluación de la Asignatura |1 |Finalizada |
 
-![alt text](image.png)
+Entramos al navegador y abrimos developer console
+![alt text](<Captura de pantalla (1).png>)
