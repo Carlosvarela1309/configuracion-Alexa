@@ -1,10 +1,10 @@
 # CONFIDURACION-Alexa
 Proyecto de clase configuración de la Alexa para la Unidad 3 de la Asignatura de Desarrollo Móvil Integral (DMI) 
 
-## UNIVERSIDAD TECNOLOGICA DE XICOTEPEC DE JUÁREZ
-# Carlos Eduardo Varela Barrios
+# UNIVERSIDAD TECNOLOGICA DE XICOTEPEC DE JUÁREZ
+## Carlos Eduardo Varela Barrios
 
-# Documentación
+### Documentación
 |No. de Captura|Nombre de la Captura | 
 |-- |-- |
 |1 Entramos al navegador y abrimos developer console|
